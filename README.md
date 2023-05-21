@@ -47,3 +47,5 @@ The confusion matrix showing the visualisation of the test results is shown belo
 <br>
 <h3>Future Updates/Improvements/Discussions:</h3><br>
      I plan to study and implement other important feature extracting filters and algorithms and thus try to improve the accuracy of the model. Along with that, I also plan to use already existing appropriate and suitable Datasets. Also planning to implement Image segmentation on the same dataset with good quality annotations and use the same model (Random Forest Classifier) with some changes in it to get enhanced results with better accuracy. 
+ <br>
+ The main inference for lesser accuracy is that for a limited training set, classes dragonfly, beetle and grasshopper were very difficult to classify as they tend to have the same morphological structure, unlike butterfly which had a higher chance of getting classified correctly. Many of the specimens under the CLASS INSECTA look similar if their morphology is seen. Thus one will need a larger number of training image set to classify the images with higher accuracy. Thus methods like CNN (Deep learning) or Semantic Segmentation might give more accuracy and enhanced results.
