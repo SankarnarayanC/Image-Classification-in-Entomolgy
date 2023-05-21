@@ -5,10 +5,11 @@ ABSTRACT:
 <br>
 These were:
       1) The pixel values from different channels.
-      2) The Gray scale pixel values from images.
-      3) Canny edge detection filter responses
-      4) Sobel edge detection filter responses
-      5) Scharr, Robert and Prewitts edge detection filter responses.
-      6) Gabor filter bank responses.
+      <br>
+      2) The Gray scale pixel values from images.<br>
+      3) Canny edge detection filter responses.<br>
+      4) Sobel edge detection filter responses.<br>
+      5) Scharr, Robert and Prewitts edge detection filter responses.<br>
+      6) Gabor filter bank responses.<br>
  <br>
  
