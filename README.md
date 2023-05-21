@@ -40,7 +40,10 @@ For the smooth execution of the project, Jupyter Notebook platform was used and 
 The confusion matrix showing the visualisation of the test results is shown below.
 <br>
 <br>
+<div>
 <img src="Images/Confusion matrix.png" width="600" height="500">
+<img src="Images/Class Labels.png" width="400" height="500">
+ </div
 <br>  
 <br>
 <h3>Future Updates/Improvements/Discussions:</h3><br>
