@@ -21,3 +21,7 @@ These were:<br>
  <br>
  
 For the smooth execution of the project, Jupyter Notebook platform was used and PYTHON was the programming language used along with the multiple libraries and frameworks to support it.
+
+<h3>Results:</h3><br><br>
+      An average of 68.05% accuracy was seen in the model. The results are as follows. <br><br> The classification of the class Beetle and Butterly was done with much higher accuracy as compared to that of Grasshopper class and Dragonfly class. 
+      
