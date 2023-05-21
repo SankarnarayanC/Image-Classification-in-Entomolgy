@@ -41,7 +41,7 @@ The confusion matrix showing the visualisation of the test results is shown belo
 <br>
 <div>
 <img src="Images/Confusion matrix.png" width="600" height="500">
-<img src="Images/Class Labels.png" width="400" height="500">
+<img src="Images/Class Labels.png" width="190" height="300">
  </div
 <br>  
 <br>
