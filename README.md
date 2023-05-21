@@ -1,6 +1,6 @@
 # Image-Classification-in-Entomolgy
  <br>
-<h3>ABSTRACT:</h3><br><br>
+<h3>ABSTRACT:</h3><br>
       This Machine Learning Model is a supervised learning model which is trained in order to classify different Insect specimens. It uses the Image classification, an integral part of Computer Vision applications. This project mainly focusses on TRADITIONAL METHODS of Machine learning with Computer Vision. <br>
       The supervised learning model used for this project is the RANDOM FOREST CLASSIFIER. <br><br> The four different classes are :
       <br>
@@ -13,6 +13,7 @@
       <img src="Images/Beetle 13.jpg" width="200" height="200">
       <img src="Images/Butterly 16.jpg" width="200" height="200">
       <img src="Images/Grass Hopper 29.jpg" width="200" height="200">
+      <img src="Images/Beetle 23.jpg" width="200" height="200">
       </div>
       <br> The DATASET used for this was multiple images downloaded from the internet for 4 different classes. These were downloaded, pre-processed and resized and later renamed to get continuity in the dataset.<br> <br> Using the algorithms and filters from Computer Vision and Digital Image processing, filter responses were recorded and were then used as features. 
  <br>
@@ -28,15 +29,17 @@ These were:<br>
  
 For the smooth execution of the project, Jupyter Notebook platform was used and PYTHON was the programming language used along with the multiple libraries and frameworks to support it.
 
-<h3>Results:</h3><br><br>
-      An average of 68.05% accuracy was seen in the model. The results are as follows.
+<h3>Results:</h3><br>
+      An average of 68.08% accuracy was seen in the model. The results are as follows.
       <br>
       <br>
      <img src="Images/accReport.png" width="1000" height="400">
 
-<br><br> The classification of the class Beetle and Butterly was done with higher accuracy as compared to that of Grasshopper class and Dragonfly class. <br>
-The confusion matrix showing the visualisation of the test results is as below.
+<br> The classification of the class Beetle and Butterfly had a higher accuracy as compared to that of the Grasshopper and Dragonfly class. <br>
+The confusion matrix showing the visualisation of the test results is shown below.
 <br>
 <br>
-<img src="Images/Confusion matrix.png" width="800" height="800">
+<img src="Images/Confusion matrix.png" width="600" height="500">
       
+<h3>Future Updates/Improvements:</h3><br>
+     I plan to study and implement other important feature extracting filters and algorithms and thus try to improve the accuracy of the model. Also planning to implement Image segmentation on the same dataset with good quality annotations and use the same model (Random Forest Classifier) with some changes to get enhanced results with better accuracy. 
