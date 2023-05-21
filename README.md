@@ -2,7 +2,7 @@
  <br>
 <h3>ABSTRACT:</h3><br><br>
       This Machine Learning Model is a supervised learning model which is trained in order to classify different Insect specimens. It uses the Image classification, an integral part of Computer Vision applications. This project mainly focusses on TRADITIONAL METHODS of Machine learning with Computer Vision. <br>
-      The supervised learning model used for this project is the RANDOM FOREST CLASSIFIER. <br> The four different classes are :
+      The supervised learning model used for this project is the RANDOM FOREST CLASSIFIER. <br><br> The four different classes are :
       <br>
       1) Beetle <br>
       2) Butterfly <br>
