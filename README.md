@@ -14,7 +14,6 @@
       <img src="Images/Butterly 16.jpg" width="190" height="200">
       <img src="Images/Grass Hopper 29.jpg" width="190" height="200">
       <img src="Images/Beetle 23.jpg" width="190" height="200">
-      <img src="Images/Cicadas 24.jpg" width="190" height="200">
       </div>
       <br> The DATASET used for this was multiple images downloaded from the internet for 4 different classes. These were downloaded, pre-processed and resized and later renamed to get continuity in the dataset.<br> <br> Using the algorithms and filters from Computer Vision and Digital Image processing, filter responses were recorded and were then used as features. 
  <br>
