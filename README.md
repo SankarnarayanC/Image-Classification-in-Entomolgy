@@ -14,3 +14,4 @@ These were:<br>
       6) Gabor filter bank responses.<br>
  <br>
  
+For the smooth execution of the project, Jupyter Notebook platform was used and PYTHON was the programming language used along with the multiple libraries and frameworks to support it.
