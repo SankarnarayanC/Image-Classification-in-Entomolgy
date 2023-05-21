@@ -28,10 +28,10 @@ These were:<br>
       6) Gabor filter bank responses.<br>
  <br>
  
-For the smooth execution of the project, Jupyter Notebook platform was used and PYTHON was the programming language used along with the multiple libraries and frameworks to support it.
+For the smooth execution of the project, Jupyter Notebook platform was used and PYTHON was the programming language used along with multiple libraries and frameworks to support it.
 
 <h3>Results:</h3><br>
-      An average of 68.08% accuracy was seen in the model. The results are as follows.
+      An average of 68.08% accuracy was seen in the model's performance during the testing of the validation set. The results recorded are as follows.
       <br>
       <br>
      <img src="Images/accReport.png" width="1000" height="400">
@@ -41,6 +41,7 @@ The confusion matrix showing the visualisation of the test results is shown belo
 <br>
 <br>
 <img src="Images/Confusion matrix.png" width="600" height="500">
-      
-<h3>Future Updates/Improvements:</h3><br>
-     I plan to study and implement other important feature extracting filters and algorithms and thus try to improve the accuracy of the model. Also planning to implement Image segmentation on the same dataset with good quality annotations and use the same model (Random Forest Classifier) with some changes to get enhanced results with better accuracy. 
+<br>  
+<br>
+<h3>Future Updates/Improvements/Discussions:</h3><br>
+     I plan to study and implement other important feature extracting filters and algorithms and thus try to improve the accuracy of the model. Along with that, I also plan to use already existing appropriate and suitable Datasets. Also planning to implement Image segmentation on the same dataset with good quality annotations and use the same model (Random Forest Classifier) with some changes in it to get enhanced results with better accuracy. 
