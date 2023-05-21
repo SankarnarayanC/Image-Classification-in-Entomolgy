@@ -8,6 +8,12 @@
       2) Butterfly <br>
       3) Dragonfly <br>
       4) Grasshopper <br>
+      <br>
+      <div>
+      <img src="Images/Beetle 13.jpg" width="200" height="200">
+      <img src="Images/Butterly 16.jpg" width="200" height="200">
+      <img src="Images/Grass Hopper 29.jpg" width="200" height="200">
+      </div>
       <br> The DATASET used for this was multiple images downloaded from the internet for 4 different classes. These were downloaded, pre-processed and resized and later renamed to get continuity in the dataset.<br> <br> Using the algorithms and filters from Computer Vision and Digital Image processing, filter responses were recorded and were then used as features. 
  <br>
 These were:<br>
@@ -24,8 +30,13 @@ For the smooth execution of the project, Jupyter Notebook platform was used and 
 
 <h3>Results:</h3><br><br>
       An average of 68.05% accuracy was seen in the model. The results are as follows.
-     <img src="Images/accReport.png">
+      <br>
+      <br>
+     <img src="Images/accReport.png" width="1000" height="400">
 
 <br><br> The classification of the class Beetle and Butterly was done with higher accuracy as compared to that of Grasshopper class and Dragonfly class. <br>
 The confusion matrix showing the visualisation of the test results is as below.
+<br>
+<br>
+<img src="Images/Confusion matrix.png" width="800" height="800">
       
