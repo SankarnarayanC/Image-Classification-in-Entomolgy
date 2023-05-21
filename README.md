@@ -24,5 +24,6 @@ For the smooth execution of the project, Jupyter Notebook platform was used and 
 
 <h3>Results:</h3><br><br>
       An average of 68.05% accuracy was seen in the model. The results are as follows.
-<br><br> The classification of the class Beetle and Butterly was done with much higher accuracy as compared to that of Grasshopper class and Dragonfly class. 
+<br><br> The classification of the class Beetle and Butterly was done with higher accuracy as compared to that of Grasshopper class and Dragonfly class. <br>
+The confusion matrix showing the visualisation of the test results is as below.
       
