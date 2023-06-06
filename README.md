@@ -2,7 +2,9 @@
  <br>
 <h3>ABSTRACT:</h3><br>
       This Machine Learning Model is a supervised learning model which is trained in order to classify different Insect specimens. It uses the Image classification, an integral part of Computer Vision applications. This project mainly focusses on TRADITIONAL METHODS of Machine learning with Computer Vision. <br>
-      The supervised learning model used for this project is the RANDOM FOREST CLASSIFIER. <br><br> The four different classes are :
+      <br> Since LadyBugs tend to carry patterns/spots, they come in a variety, each of which is gravely important to maintain the balance in nature. They are also one of the great pollinators available. Ladybugs are mainly seen on vegetation which carry APHIDS - A pest that ruins the growth of plants. Since Ladybugs prey on Aphids, they are seen in huge numbers near them. It thus becomes very important to classify and identify these set of specimens on the field. This would ultimately benefit the private collectors and environmentalists to keep a track of their numbers. Thus identifying the pattern on the specimen and classification is what is done in this project.
+      <br>
+      <br> The supervised learning model used for this project is the RANDOM FOREST CLASSIFIER. <br><br> The three different classes are :
       <br>
       1) Transverse LadyBug <br>
       2) 7 Spotted LadyBug <br>
@@ -34,7 +36,7 @@ For the smooth execution of the project, Jupyter Notebook platform was used and 
       <br>
      <img src="Images/classification results-2.png" width="1000" height="400">
 
-<br> The classification of the class Beetle and Butterfly had a higher accuracy as compared to that of the Grasshopper and Dragonfly class. <br>
+<br> The classification of the class 7 Spotted-Ladybug and Transverse-Ladybug had a higher accuracy as compared to that of the 22 Spotted-Ladubug class. <br>
 The confusion matrix showing the visualisation of the test results is shown below.
 <br>
 <br>
