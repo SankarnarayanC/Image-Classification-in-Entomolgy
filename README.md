@@ -35,14 +35,14 @@ For the smooth execution of the project, Jupyter Notebook platform was used and 
       An average of 82.01% accuracy was seen in the model's performance during the testing of the validation set. The results recorded are as follows.
       <br>
       <br>
-     <img src="Images/classification results-2.png" width="1000" height="400">
+     <img src="Images/Report-final.png" width="1000" height="400">
 
 <br> The classification of the class 7 Spotted-Ladybug and Polished-Ladybug had a higher accuracy as compared to that of the 22 Spotted-Ladybug and Transverse-Ladybug classes. <br>
 The confusion matrix showing the visualisation of the test results is shown below.
 <br>
 <br>
 <div>
-<img src="Images/Confusion Matrix-2.png" width="600" height="500">
+<img src="Images/CM-final.png" width="600" height="500">
  </div
 <br>  
 <br>
