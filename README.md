@@ -33,19 +33,18 @@ For the smooth execution of the project, Jupyter Notebook platform was used and 
       An average of 78.34% accuracy was seen in the model's performance during the testing of the validation set. The results recorded are as follows.
       <br>
       <br>
-     <img src="Images/accReport.png" width="1000" height="400">
+     <img src="Images/classification results-2.png" width="1000" height="400">
 
 <br> The classification of the class Beetle and Butterfly had a higher accuracy as compared to that of the Grasshopper and Dragonfly class. <br>
 The confusion matrix showing the visualisation of the test results is shown below.
 <br>
 <br>
 <div>
-<img src="Images/Confusion matrix.png" width="600" height="500">
-<img src="Images/Class Labels.png" width="190" height="300">
+<img src="Images/Confusion Matrix-2.png" width="600" height="500">
  </div
 <br>  
 <br>
 <h3>Future Updates/Improvements/Discussions:</h3><br>
-     I plan to study and implement other important feature extracting filters and algorithms and thus try to improve the accuracy of the model. Along with that, I also plan to use already existing appropriate and suitable Datasets. Also planning to implement Image segmentation on the same dataset with good quality annotations and use the same model (Random Forest Classifier) with some changes in it to get enhanced results with better accuracy. 
+     I plan to study and implement other important feature extracting filters and algorithms and thus try to improve the accuracy of the model. Along with that, I also plan to use already existing appropriate and suitable Datasets. Also planning to implement Image annotations on the same dataset with good quality annotations and use the same model (Random Forest Classifier) with some changes in it to get enhanced results with better accuracy. 
  <br>
- The main inference for lesser accuracy is that for a limited training set, classes dragonfly, beetle and grasshopper were very difficult to classify as they tend to have the same morphological structure, unlike butterfly which had a higher chance of getting classified correctly. Many of the specimens under the CLASS INSECTA look similar if their morphology is seen. Thus one will need a larger number of training image set to classify the images with higher accuracy. Thus methods like CNN (Deep learning) or Semantic Segmentation might give more accuracy and enhanced results.
+ The main inference for lesser accuracy is that for a limited training set, it is very difficult to classify as the specimens tend to have the same morphological structure. Many of the specimens under the CLASS INSECTA look similar if their morphology is seen. Thus one will need a larger number of training image set to classify the images with higher accuracy. Thus methods like CNN (Deep learning) might give more accuracy and enhanced results.
