@@ -7,7 +7,6 @@
       1) Transverse LadyBug <br>
       2) 7 Spotted LadyBug <br>
       3) 22 Spotted LadyBug <br>
-
       <br>
       <div>
       <img src="Images/Beetle 13.jpg" width="190" height="200">
@@ -30,7 +29,7 @@ These were:<br>
 For the smooth execution of the project, Jupyter Notebook platform was used and PYTHON was the programming language used along with multiple libraries and frameworks to support it.
 
 <h3>Results:</h3><br>
-      An average of 78.34% accuracy was seen in the model's performance during the testing of the validation set. The results recorded are as follows.
+      An average of 78.2% accuracy was seen in the model's performance during the testing of the validation set. The results recorded are as follows.
       <br>
       <br>
      <img src="Images/classification results-2.png" width="1000" height="400">
