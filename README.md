@@ -4,11 +4,12 @@
       This Machine Learning Model is a supervised learning model which is trained in order to classify different Insect specimens. It uses the Image classification, an integral part of Computer Vision applications. This project mainly focusses on TRADITIONAL METHODS of Machine learning with Computer Vision. <br>
       <br> Since LadyBugs tend to carry patterns/spots, they come in a variety, each of which is gravely important to maintain the balance in nature. They are also one of the great pollinators available. Ladybugs are mainly seen on vegetation which carry APHIDS - A pest that ruins the growth of plants. Since Ladybugs prey on Aphids, they are seen in huge numbers near them. It thus becomes very important to classify and identify these set of specimens on the field. This would ultimately benefit the private collectors and environmentalists to keep a track of their numbers. Thus identifying the pattern on the specimen and classification is what is done in this project.
       <br>
-      <br> The supervised learning model used for this project is the RANDOM FOREST CLASSIFIER. <br><br> The three different classes are :
+      <br> The supervised learning model used for this project is the RANDOM FOREST CLASSIFIER. <br><br> The four different classes are :
       <br>
       1) Transverse LadyBug <br>
       2) 7 Spotted LadyBug <br>
       3) 22 Spotted LadyBug <br>
+      4) Polished LadyBug <br>
       <br>
       <div>
       <img src="Images/Beetle 13.jpg" width="190" height="200">
@@ -16,7 +17,7 @@
       <img src="Images/Grass Hopper 29.jpg" width="190" height="200">
       <img src="Images/Beetle 23.jpg" width="190" height="200">
       </div>
-      <br> The DATASET used for this was multiple images downloaded from the internet for 3 different classes. These were downloaded, pre-processed and resized and later renamed to get continuity in the dataset.<br> <br> Using the algorithms and filters from Computer Vision and Digital Image processing, filter responses were recorded and were then used as features. 
+      <br> The DATASET used for this was multiple images downloaded from the internet for four different classes. These were downloaded, pre-processed and resized and later renamed to get continuity in the dataset.<br> <br> Using the algorithms and filters from Computer Vision and Digital Image processing, filter responses were recorded and were then used as features. 
  <br>
 These were:<br>
       1) The pixel values from different channels.
@@ -31,12 +32,12 @@ These were:<br>
 For the smooth execution of the project, Jupyter Notebook platform was used and PYTHON was the programming language used along with multiple libraries and frameworks to support it.
 
 <h3>Results:</h3><br>
-      An average of 78.2% accuracy was seen in the model's performance during the testing of the validation set. The results recorded are as follows.
+      An average of 82.01% accuracy was seen in the model's performance during the testing of the validation set. The results recorded are as follows.
       <br>
       <br>
      <img src="Images/classification results-2.png" width="1000" height="400">
 
-<br> The classification of the class 7 Spotted-Ladybug and Transverse-Ladybug had a higher accuracy as compared to that of the 22 Spotted-Ladubug class. <br>
+<br> The classification of the class 7 Spotted-Ladybug and Polished-Ladybug had a higher accuracy as compared to that of the 22 Spotted-Ladybug and Transverse-Ladybug classes. <br>
 The confusion matrix showing the visualisation of the test results is shown below.
 <br>
 <br>
