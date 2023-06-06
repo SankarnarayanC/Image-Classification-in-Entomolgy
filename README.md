@@ -4,10 +4,10 @@
       This Machine Learning Model is a supervised learning model which is trained in order to classify different Insect specimens. It uses the Image classification, an integral part of Computer Vision applications. This project mainly focusses on TRADITIONAL METHODS of Machine learning with Computer Vision. <br>
       The supervised learning model used for this project is the RANDOM FOREST CLASSIFIER. <br><br> The four different classes are :
       <br>
-      1) Beetle <br>
-      2) Butterfly <br>
-      3) Dragonfly <br>
-      4) Grasshopper <br>
+      1) Transverse LadyBug <br>
+      2) 7 Spotted LadyBug <br>
+      3) 22 Spotted LadyBug <br>
+
       <br>
       <div>
       <img src="Images/Beetle 13.jpg" width="190" height="200">
@@ -30,7 +30,7 @@ These were:<br>
 For the smooth execution of the project, Jupyter Notebook platform was used and PYTHON was the programming language used along with multiple libraries and frameworks to support it.
 
 <h3>Results:</h3><br>
-      An average of 68.08% accuracy was seen in the model's performance during the testing of the validation set. The results recorded are as follows.
+      An average of 78.34% accuracy was seen in the model's performance during the testing of the validation set. The results recorded are as follows.
       <br>
       <br>
      <img src="Images/accReport.png" width="1000" height="400">
